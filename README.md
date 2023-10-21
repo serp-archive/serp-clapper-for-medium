@@ -9,7 +9,7 @@ Here's how it works:
 <img src="https://github.com/serp-ai/mediumclapper.js/assets/45643901/33580e81-72b3-43e0-a9fa-c1f70dd900e0" width="700" />
 <br><br><br>
 
-- 📺: https://youtu.be/oN3soEz-5Z4?si=gpvYCvZxxgiDDgiN
+- Here's a video: https://youtu.be/oN3soEz-5Z4?si=gpvYCvZxxgiDDgiN
 
 ---
 
