@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "SERP Clapper for Medium",
+  "author": "Devin Schumacher @ SERP https://serp.co",
+  "version": "1.0",
+  "description": "Automate +50 claps on Medium articles.",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+}
