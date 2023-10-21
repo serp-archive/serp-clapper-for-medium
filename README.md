@@ -4,7 +4,12 @@ Did you know you can clap for someone’s content up to 50 times on Medium?
 
 Well, you can.
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*-ZfzOpFN9Bb7_aJMICow8A.png" width="600" />
+Here's how it works:
+
+[![Watch the video]([https://i.stack.imgur.com/Vp2cE.png](https://miro.medium.com/v2/resize:fit:1400/1*-ZfzOpFN9Bb7_aJMICow8A.png))]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/embed/oN3soEz-5Z4?si=TaH1b12NhLdw6geZ))
+
+---
+
 
 And to protect you from carpal tunnel syndrome, I packaged that behavior into a little extension for Chrome.
 
