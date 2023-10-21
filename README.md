@@ -1,4 +1,4 @@
-# `mediumclapper.j`s aka spreadtheclap.js
+# `mediumclapper.js` aka `spreadtheclap.js`
 
 Did you know you can clap for someone’s content up to 50 times on Medium?
 
