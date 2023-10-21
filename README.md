@@ -1,12 +1,15 @@
-# mediumclapper.js aka spreadtheclap.js
+# `mediumclapper.j`s aka spreadtheclap.js
 
 Did you know you can clap for someone’s content up to 50 times on Medium?
 
 Well, you can.
 
-Here's how it works:
+Here's how it works - video: https://www.youtube.com/watch?v=oN3soEz-5Z4
 
-[![Watch the video](https://miro.medium.com/v2/resize:fit:1400/1*-ZfzOpFN9Bb7_aJMICow8A.png)](https://www.youtube.com/embed/oN3soEz-5Z4?si=TaH1b12NhLdw6geZ)
+
+<img src="https://github.com/serp-ai/mediumclapper.js/assets/45643901/33580e81-72b3-43e0-a9fa-c1f70dd900e0" width="800" />
+
+
 
 ---
 
