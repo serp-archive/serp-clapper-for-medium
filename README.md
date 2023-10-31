@@ -18,13 +18,8 @@ And to protect you from carpal tunnel syndrome, I packaged that behavior into a 
 Google Chrome Extension
 =======================
 
-I submitted the extension to the Chrome app store and it’s pending approval as of this writing…
-
-![](https://miro.medium.com/v2/resize:fit:5992/1*ljyORvkq4Q5nYLJAUL6qtQ.png)
-
-But if you’re too excited to sit around when you could be clappin’ it up — you’re welcome to grab the bootleg here:
-
-👉 [https://serp.ly/@serp/serp-clapper-medium](https://serp.ly/@serp/serp-clapper-medium)
+👉 [Official Google Chrome extension store download link](https://serp.ly/@serp/medium-clapper)
+👉 [Bootleg Version (with an extra feature that Google didn't approve](https://serp.ly/@serp/serp-clapper-medium)
 
 That’s all for now!
 
